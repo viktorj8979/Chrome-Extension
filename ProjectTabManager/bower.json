@@ -1,0 +1,18 @@
+{
+  "name": "ProjectTabManager",
+  "version": "3.0.1",
+  "authors": "",
+  "description": "Project tab management per window on your Chrome",
+  "main": "app/js/background.js",
+  "keywords": [
+    "ProjectTabManager"
+  ],
+  "license": "Apache2.0",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "1.0.8",
+    "angular-route": "~1.2.6",
+    "bootstrap": "~3.2.0"
+  }
+}
